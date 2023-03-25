@@ -1,0 +1,88 @@
+trojan=azgy001.xibai6.top:20790,password=78af6d6d-6de7-3a1f-a969-c39077fb47bf,over-tls=true,tls-host=ssl.ssl12.xyz,tls-verification=false,tag=Taiwan
+vmess=pyptom.cf:443,method=chacha20-ietf-poly1305,password=46bfdb59-83c6-4710-877e-c809b5a90dff,aead=true,obfs=wss,obfs-host=pyptom.cf,obfs-uri=/,tag=United States
+vmess=23.227.38.21:443,method=chacha20-ietf-poly1305,password=c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7,aead=true,obfs=wss,obfs-host=oplg1.cfcdn2.xyz,obfs-uri=/AUIKN8AU,tag=Canada
+shadowsocks=43.207.214.255:443,method=aes-256-cfb,password=amazonskr05,tag=Japan
+vmess=quranweb20.xyz:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=quranweb20.xyz,obfs-uri=/,tag=United States
+vmess=185.162.228.2:443,method=chacha20-ietf-poly1305,password=17b2a313-37a0-4945-a8e4-e63375506b4a,aead=true,obfs=wss,obfs-host=77.v2ray1.xyz,obfs-uri=/A2DJOPFT,tag=Armenia
+shadowsocks=85.208.108.60:7001,method=aes-256-gcm,password=RexnBgU7EV5ADxG,tag=Japan
+shadowsocks=14.29.124.168:25230,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=b1.ss1011.top:1507,method=chacha20-ietf-poly1305,password=8c042a38-71c1-1dcb-00df-54880236e0dc,aead=true,tag=Hong Kong
+trojan=azgy001.xibai6.top:20788,password=78af6d6d-6de7-3a1f-a969-c39077fb47bf,over-tls=true,tls-host=ssl.ssl12.xyz,tls-verification=false,tag=Taiwan
+vmess=holyquran11.store:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=holyquran11.store,obfs-uri=/,tag=United States
+shadowsocks=131.186.21.62:4433,method=aes-256-gcm,password=yy595721,tag=South Korea
+trojan=152.70.74.66:443,password=d906afe5-7c3c-4ddc-aaa4-61c154a82e5e,over-tls=true,tls-host=,tls-verification=false,tag=India
+shadowsocks=14.29.124.168:25287,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+shadowsocks=36.139.166.247:11023,method=aes-256-gcm,password=ll668668@,tag=China
+shadowsocks=85.208.108.60:6679,method=aes-256-gcm,password=TEzjfAYq2IjtuoS,tag=Japan
+vmess=hucloud.tk:443,method=chacha20-ietf-poly1305,password=2df3ed4a-4313-45f9-b742-2f02ce593a6e,aead=true,obfs=wss,obfs-host=hucloud.tk,obfs-uri=/,tag=None
+shadowsocks=85.208.108.60:5003,method=aes-256-gcm,password=g5MeD6Ft3CWlJId,tag=Japan
+vmess=tkcmi.kczz2038.online:50029,method=chacha20-ietf-poly1305,password=5d27c07e-ad30-4dbf-a6bb-1fc0fa87f70a,aead=true,obfs=wss,obfs-host=tkcmi.kczz2038.online,obfs-uri=/,tag=Japan
+shadowsocks=43.207.110.173:443,method=aes-256-cfb,password=amazonskr05,tag=Japan
+shadowsocks=169.197.141.187:8080,method=aes-256-gcm,password=KixLvKzwjekG00rm,tag=United States
+vmess=holyquran3.store:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=holyquran3.store,obfs-uri=/,tag=United States
+shadowsocks=85.208.108.60:9101,method=aes-256-gcm,password=e4FCWrgpkji3QY,tag=Japan
+trojan=20.74.251.90:443,password=ca688b02-6c35-4b7a-9e28-3632e66e1086,over-tls=true,tls-host=,tls-verification=false,tag=United Arab Emirates
+vmess=104.21.234.238:443,method=chacha20-ietf-poly1305,password=128a73ee-a5a3-4dce-a832-5c3f60841032,aead=true,obfs=wss,obfs-host=jp03.cctvvip.ml,obfs-uri=/cctv13.m3u8,tag=None
+vmess=d.pgypgykmoljklj.xyz:443,method=chacha20-ietf-poly1305,password=fa4cb529-3ac9-4268-bb04-ed4253813508,aead=true,obfs=wss,obfs-host=d.pgypgykmoljklj.xyz,obfs-uri=/,tag=United States
+vmess=203.24.108.2:443,method=chacha20-ietf-poly1305,password=17b2a313-37a0-4945-a8e4-e63375506b4a,aead=true,obfs=wss,obfs-host=77.v2ray1.xyz,obfs-uri=/A2DJOPFT,tag=Cyprus
+trojan=oss-cn-shanghai.westdatacloud.top:20048,password=626351FA-3CA6-8118-FADF-CCDBCD620871,over-tls=true,tls-host=oss-cn-shanghai.westdatacloud.top,tls-verification=false,tag=China
+vmess=203.30.188.2:443,method=chacha20-ietf-poly1305,password=17b2a313-37a0-4945-a8e4-e63375506b4a,aead=true,obfs=wss,obfs-host=77.v2ray1.xyz,obfs-uri=/A2DJOPFT,tag=Belize
+shadowsocks=14.29.124.168:24004,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=v2ray.wefuckgfw.tk:2053,method=chacha20-ietf-poly1305,password=c229e6b9-0f0f-4045-af99-a190fbb872e9,aead=true,obfs=wss,obfs-host=v2ray.wefuckgfw.tk,obfs-uri=/,tag=None
+vmess=quranweb12.xyz:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=quranweb12.xyz,obfs-uri=/,tag=None
+vmess=dp1.scproxy.top:443,method=chacha20-ietf-poly1305,password=823c31da-701f-483d-b36e-896e5cf0987a,aead=true,obfs=wss,obfs-host=dp1.scproxy.top,obfs-uri=/,tag=None
+trojan=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12323,password=001a5927-bcf7-368a-8a4d-cb8c2fd6aab5,over-tls=true,tls-host=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou,tls-verification=false,tag=China
+vmess=holyquran8.store:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=holyquran8.store,obfs-uri=/,tag=None
+shadowsocks=36.137.106.115:11023,method=aes-256-gcm,password=ll668668@,tag=China
+vmess=cf-topspeedoneplus.uk:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=cf-topspeedoneplus.uk,obfs-uri=/,tag=None
+shadowsocks=14.29.124.168:25247,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+shadowsocks=43.200.244.234:443,method=aes-256-cfb,password=amazonskr05,tag=South Korea
+vmess=23.227.38.25:443,method=chacha20-ietf-poly1305,password=c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7,aead=true,obfs=wss,obfs-host=oplg1.cfcdn2.xyz,obfs-uri=/AUIKN8AU,tag=Canada
+shadowsocks=13.115.198.227:443,method=aes-256-cfb,password=amazonskr05,tag=Japan
+shadowsocks=14.29.124.168:25279,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=112.132.215.189:50002,method=chacha20-ietf-poly1305,password=418048af-a293-4b99-9b0c-98ca3580dd24,aead=false,tag=China
+shadowsocks=14.29.124.168:25251,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=fzcmi.kctr2038.icu:50025,method=chacha20-ietf-poly1305,password=5d27c07e-ad30-4dbf-a6bb-1fc0fa87f70a,aead=true,obfs=wss,obfs-host=fzcmi.kctr2038.icu,obfs-uri=/,tag=Hong Kong
+trojan=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou:12324,password=001a5927-bcf7-368a-8a4d-cb8c2fd6aab5,over-tls=true,tls-host=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou,tls-verification=false,tag=China
+vmess=hgc0102.kctr2038.icu:50238,method=chacha20-ietf-poly1305,password=5d27c07e-ad30-4dbf-a6bb-1fc0fa87f70a,aead=true,obfs=wss,obfs-host=hgc0102.kctr2038.icu,obfs-uri=/,tag=Hong Kong
+shadowsocks=14.29.124.168:25233,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=36.134.16.96:11023,method=chacha20-ietf-poly1305,password=8c042a38-71c1-1dcb-00df-54880236e0dc,aead=true,tag=China
+vmess=185.162.228.110:443,method=chacha20-ietf-poly1305,password=c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7,aead=true,obfs=wss,obfs-host=oplg1.cfcdn2.xyz,obfs-uri=/AUIKN8AU,tag=Armenia
+trojan=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12344,password=001a5927-bcf7-368a-8a4d-cb8c2fd6aab5,over-tls=true,tls-host=iyvwbaniohxcsawa.vzwzasc.cn,tls-verification=false,tag=China
+trojan=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou:12348,password=001a5927-bcf7-368a-8a4d-cb8c2fd6aab5,over-tls=true,tls-host=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou,tls-verification=false,tag=China
+shadowsocks=sg-am3.eqsunshine.com:32001,method=aes-256-cfb,password=3g0dHlKME,ssr-protocol=origin,ssr-protocol-param=====,obfs=tls1.2_ticket_auth,obfs-host=====,tag=Singapore
+trojan=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12343,password=001a5927-bcf7-368a-8a4d-cb8c2fd6aab5,over-tls=true,tls-host=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou,tls-verification=false,tag=China
+trojan=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12341,password=001a5927-bcf7-368a-8a4d-cb8c2fd6aab5,over-tls=true,tls-host=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou,tls-verification=false,tag=China
+shadowsocks=43.207.225.151:443,method=aes-256-cfb,password=amazonskr05,tag=Japan
+vmess=200.aquabazi.site:443,method=chacha20-ietf-poly1305,password=0b873cff-11ab-4716-c41a-04f886135091,aead=true,obfs=wss,obfs-host=200.aquabazi.site,obfs-uri=/,tag=United States
+shadowsocks=85.208.108.60:8000,method=aes-256-gcm,password=KixLvKzwjekG00rm,tag=Japan
+vmess=cf-topspeedv9.uk:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=cf-topspeedv9.uk,obfs-uri=/,tag=None
+shadowsocks=85.208.108.60:5001,method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tag=Japan
+shadowsocks=85.208.108.60:4444,method=aes-256-gcm,password=pKEW8JPByTVTLtM,tag=Japan
+vmess=cf-topspeedone.uk:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=cf-topspeedone.uk,obfs-uri=/,tag=United States
+shadowsocks=85.208.108.60:7306,method=aes-256-gcm,password=FoOiGlkAA9yPEGP,tag=Japan
+vmess=quranweb17.xyz:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=quranweb17.xyz,obfs-uri=/,tag=United States
+vmess=quran-audio4.xyz:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=quran-audio4.xyz,obfs-uri=/,tag=United States
+vmess=holyquran18.store:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=holyquran18.store,obfs-uri=/,tag=United States
+vmess=holyquran15.store:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=holyquran15.store,obfs-uri=/,tag=None
+shadowsocks=172.99.188.99:5000,method=aes-256-gcm,password=Y6R9pAtvxxzmGC,tag=Netherlands
+vmess=vde2.0bad.com:443,method=chacha20-ietf-poly1305,password=927094d3-d678-4763-8591-e240d0bcae87,aead=true,obfs=wss,obfs-host=vde2.0bad.com,obfs-uri=/,tag=Germany
+vmess=quran-audio.xyz:443,method=chacha20-ietf-poly1305,password=8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f,aead=true,obfs=wss,obfs-host=quran-audio.xyz,obfs-uri=/,tag=None
+shadowsocks=43.207.117.53:443,method=aes-256-cfb,password=amazonskr05,tag=Japan
+shadowsocks=172.99.188.99:2375,method=aes-256-gcm,password=faBAoD54k87UJG7,tag=Netherlands
+vmess=cdn.wuki.moe:80,method=chacha20-ietf-poly1305,password=747695c7-1ed8-44d1-a1a0-6b1b162748ca,aead=true,obfs=ws,obfs-host=woi-eu7.misakano.ml,obfs-uri=/sbga?ed=2048,tag=Singapore
+vmess=23.227.38.26:443,method=chacha20-ietf-poly1305,password=c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7,aead=true,obfs=wss,obfs-host=oplg1.cfcdn2.xyz,obfs-uri=/AUIKN8AU,tag=Canada
+vmess=v2.emovpn.xyz:443,method=chacha20-ietf-poly1305,password=01e5d674-9212-47a8-8653-298e21be6560,aead=true,obfs=wss,obfs-host=v2.emovpn.xyz,obfs-uri=/,tag=United States
+vmess=172.67.201.14:443,method=chacha20-ietf-poly1305,password=c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7,aead=true,obfs=wss,obfs-host=oplg1.cfcdn2.xyz,obfs-uri=/AUIKN8AU,tag=United States
+shadowsocks=14.29.124.168:25259,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+shadowsocks=14.29.124.168:25217,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+trojan=204.216.214.102:44386,password=C931CWacy8,over-tls=true,tls-host=,tls-verification=false,tag=Italy
+shadowsocks=14.29.124.168:25270,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=b1.ss1011.top:1509,method=chacha20-ietf-poly1305,password=8c042a38-71c1-1dcb-00df-54880236e0dc,aead=true,tag=Hong Kong
+vmess=36.133.171.209:11023,method=chacha20-ietf-poly1305,password=8c042a38-71c1-1dcb-00df-54880236e0dc,aead=true,tag=China
+shadowsocks=14.29.124.168:25284,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+shadowsocks=14.29.124.168:25231,method=aes-128-cfb,password=QazEdcTgb159@$*,tag=China
+vmess=43.154.148.54:57650,method=chacha20-ietf-poly1305,password=b74f0019-b839-421f-add8-ffaf94fc3139,aead=false,obfs=wss,obfs-host=,obfs-uri=/,tag=Hong Kong
+vmess=36.134.16.171:11023,method=chacha20-ietf-poly1305,password=8c042a38-71c1-1dcb-00df-54880236e0dc,aead=true,tag=China
+shadowsocks=36.139.166.244:11023,method=aes-256-gcm,password=ll668668@,tag=China
+vmess=hk80.8b750e3e20aa.sanfen001.pics:80,method=chacha20-ietf-poly1305,password=58075d56-8933-48fe-a054-0ab9bcc6bcf0,aead=true,obfs=ws,obfs-host=hk80.8b750e3e20aa.sanfen001.pics,obfs-uri=/,tag=Hong Kong
